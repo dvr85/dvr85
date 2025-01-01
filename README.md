@@ -19,7 +19,7 @@ Hi there! 👋 I’m Vinit Raju Dekkapati.
 	•	📧 Reach out and let’s chat about technology, innovation, and collaboration!
 
 📬 Contact Me:
-	•	📧 Email: dvinit@udel.edu
+	•	📧 Email: vinitraju0420@gmail.com
 	•	👨‍💻 LinkedIn: linkedin.com/in/dvr99
 	•	🐙 GitHub: github.com/dvr85
 
