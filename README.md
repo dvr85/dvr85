@@ -11,11 +11,11 @@ Hi there! 👋 I’m Vinit Raju Dekkapati.
 	•	📈 Equipped with hand-on experience with Power BI, Tableau, and database management systems.
 
 🌱 Currently Learning:
-	•	🔍 Diving deeper into Machine Learning, AI and Generative AI.
+	•	🔍 Diving deeper into Machine Learning, and Deep Learning.
  	•	🔍 Covering topics on LLMs, fine models and transformers.
 
 🤝 Looking to Collaborate:
-	•	🙌 Excited to connect with anyone who shares an interest in data science, machine learning, and Generative AI.
+	•	🙌 Excited to connect with anyone who shares an interest in data science, machine learning, and Applications of Deep Learning.
 	•	📧 Reach out and let’s chat about technology, innovation, and collaboration!
 
 📬 Contact Me:
