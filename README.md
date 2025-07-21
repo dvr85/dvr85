@@ -6,16 +6,16 @@ Hi there! 👋 I’m Vinit Raju Dekkapati.
 	•	🎓 I hold a Bachelor of Technology in Electronics and Communication Engineering from Lovely Professional University, Punjab, India.
 
 🛠 Technical Skills:
-	•	🐍 Proficient in Python, Jupyter Notebooks, SQL, R and Prompt Engineering.
-	•	🧠 Experienced with frameworks like Pandas, NumPy, Matplotlib; Experienced with ML frameworks like scikit-learn, PyTorch and Tensorflow.
-	•	📈 Equipped with hand-on experience with Power BI, Tableau, and database management systems.
+	•	🐍 Proficient in Python, R and SQL and Prompt Engineering.
+	•	🧠 Experienced with frameworks like Pandas, NumPy, Matplotlib and Seaborn; Experienced with ML frameworks like scikit-learn, PyTorch and Tensorflow.
+	•	📈 Equipped with hand-on experience with Tableau.
 
 🌱 Currently Learning:
-	•	🔍 Diving deeper into Machine Learning, and Deep Learning.
- 	•	🔍 Covering topics on LLMs, fine models and transformers.
+	•	🔍 Diving deeper into AI/ML Systems and deployment.
+ 	•	🔍 Covering topics on Data Engineering.
 
 🤝 Looking to Collaborate:
-	•	🙌 Excited to connect with anyone who shares an interest in data science, machine learning, and Applications of Deep Learning.
+	•	🙌 Excited to connect with anyone who shares an interest in data science and AI/ML deployment.
 	•	📧 Reach out and let’s chat about technology, innovation, and collaboration!
 
 📬 Contact Me:
