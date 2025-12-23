@@ -68,12 +68,15 @@ University of Delaware
 **Focus Areas:** Machine Learning • Statistical Modeling • Predictive Analytics • MLOps
 
 ---
-
 ## 🌱 What I'm Learning Next
 
-- **MLOps & LLMOps:** Building production-ready ML systems with deployment best practices
-- **Advanced ML Techniques:** Deep diving into ensemble methods, time-series forecasting, and experimentation frameworks
-- **Modern Data Stack:** Exploring dbt, Airflow, and real-time data streaming
+- **Core ML:** Deepening expertise in ensemble methods, time-series forecasting, and experimental design to build robust, production-ready models
+
+- **MLOps Fundamentals:** Learning model deployment, monitoring, and CI/CD pipelines to ensure ML systems deliver reliable business value
+
+- **Hybrid AI Systems:** Exploring architectures that combine traditional ML models with LLM-based reasoning—using ML for precise predictions and LLMs for interpretation, explanation, and decision support
+
+- **Modern Data Stack:** Getting hands-on with tools like dbt, Airflow, and feature stores for scalable data engineering
 
 ---
 
