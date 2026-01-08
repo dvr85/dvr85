@@ -76,8 +76,6 @@ University of Delaware
 
 - **Hybrid AI Systems:** Exploring architectures that combine traditional ML models with LLM-based reasoning—using ML for precise predictions and LLMs for interpretation, explanation, and decision support
 
-- **Modern Data Stack:** Getting hands-on with tools like dbt, Airflow, and feature stores for scalable data engineering
-
 ---
 
 ## 📫 Let's Connect
