@@ -1,6 +1,6 @@
 # Hi there, I'm Vinit Raju Dekkapati 👋
 
-I'm a Data Science graduate student at the University of Delaware with 2 years of experience building data pipelines, automation systems, and analytics solutions. I specialize in transforming raw data into actionable insights through ETL pipelines, machine learning models, and data-driven decision making.
+Analytics Engineer with 2 years of production experience building data pipelines and automation systems, now transitioning to ML/LLM Engineering. I specialize in building scalable AI systems with a focus on LLM applications, agentic workflows, and MLOps practices.
 
 ---
 
@@ -14,67 +14,75 @@ I'm a Data Science graduate student at the University of Delaware with 2 years o
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
 </p>
 
-**Python** • **SQL** • **Bash** • **Linux**
+**Python** • **R** • **SQL** • **Bash** • **Linux**
 
 ---
 
-### Data Science & Machine Learning
+### Machine Learning & Deep Learning
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
 </p>
 
-**Pandas** • **NumPy** • **Scikit-learn** • **PyTorch** • **Statistical Modeling** • **Feature Engineering** • **Model Evaluation** • **A/B Testing**
+**PyTorch** • **Scikit-learn** • **Transformer Architectures** • **BERT/Encoder Models** • **Fine-tuning (LoRA/PEFT)** • **Transfer Learning** • **Feature Engineering** • **Model Evaluation**
 
 ---
 
-### Visualization & Analytics
+### LLM & GenAI
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/>
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="50" height="50"/>
 </p>
 
-**Matplotlib** • **Seaborn** • **Tableau** • **Google Analytics**
+**LangChain** • **LlamaIndex** • **LLM APIs (OpenAI, Claude, Local)** • **RAG Systems** • **Prompt Engineering** • **Embeddings** • **Vector Databases (Pinecone, Chroma)**
+
+---
+
+### MLOps & Deployment
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+</p>
+
+**MLflow** • **Airflow** • **Docker** • **CI/CD (GitHub Actions)** • **Model Serving (FastAPI, Flask)** • **ONNX** • **LangSmith** • **Ollama** • **Model Monitoring** • **A/B Testing**
 
 ---
 
 ### Data Engineering & Cloud
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50"/>
 </p>
 
-**ETL Pipelines** • **UiPath (RPA)** • **Data Validation** • **Workflow Automation** • **AWS** • **Git/GitHub** • **Jupyter Notebooks**
+**ETL/ELT Pipelines** • **dbt** • **Python Automation** • **Apache Spark** • **Data Validation** • **AWS** • **Git/GitHub**
 
 ---
 
 ## 💼 Professional Experience
 
 **Network Engineer - Automation @ MasTec QuadGen** (2 years)
-- Built ETL pipelines processing network telemetry data for infrastructure optimization
+- Built end-to-end ETL pipelines processing network telemetry data for infrastructure optimization
 - Applied time-series analysis and anomaly detection techniques
-- Deployed Python and UiPath automation workflows, improving efficiency by 30%
-- Performed exploratory data analysis to inform maintenance strategies
+- Implemented Python and UiPath automation workflows, improving operational efficiency by 30%
+- Collaborated with cross-functional teams to document and standardize data workflows
 
 ---
 
 ## 🎓 Education
 
 **Master of Science in Data Science**  
-University of Delaware
+University of Delaware | Expected May 2026
 
-**Focus Areas:** Machine Learning • Statistical Modeling • Predictive Analytics • MLOps
+**Focus Areas:** Machine Learning • Deep Learning • Data Analysis • Applied Statistics • Multivariate Analysis
 
 ---
-## 🌱 What I'm Learning Next
 
-- **Core ML:** Deepening expertise in ensemble methods, time-series forecasting, and experimental design to build robust, production-ready models
+## 🌱 What I'm Building
 
-- **MLOps Fundamentals:** Learning model deployment, monitoring, and CI/CD pipelines to ensure ML systems deliver reliable business value
-
-- **Hybrid AI Systems:** Exploring architectures that combine traditional ML models with LLM-based reasoning—using ML for precise predictions and LLMs for interpretation, explanation, and decision support
+- **LLM Applications:** Building RAG systems and agentic AI workflows using LangChain and LlamaIndex
+- **Hybrid AI Systems:** Exploring architectures that combine traditional ML/DL models with LLM reasoning for production deployment
+- **MLOps Practices:** Implementing model deployment, monitoring, and CI/CD pipelines with Docker, MLflow, and ONNX
+- **Efficient Fine-tuning:** Experimenting with LoRA/PEFT for resource-efficient model adaptation
 
 ---
 
@@ -84,8 +92,6 @@ University of Delaware
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinitraju0420@gmail.com)
 
 ---
-
-💡 **Currently open to Data Scientist and Applied Data Scientist opportunities**
 
 <!---
 dvr85/dvr85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
