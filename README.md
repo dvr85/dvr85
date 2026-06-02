@@ -1,6 +1,6 @@
 # Hi, I'm Vinit Raju Dekkapati 👋
 
-**AI/ML Engineer** — focusing on fine-tuning, RAG, and inference for production LLM and agentic AI systems deployment.
+**AI/ML Engineer** — focusing on fine-tuning and inference for production LLM and agentic AI systems deployment.
 
 MS Data Science @ University of Delaware · 3+ years building data and ML systems · Currently going deep on inference/serving internals (paged attention, prefix caching, speculative decoding) and exploring local AI inference and world models.
 
@@ -16,9 +16,6 @@ Python · R · SQL · Bash · Linux
 **LLMs & Fine-Tuning**  
 PyTorch · Hugging Face Transformers · PEFT · TRL · Unsloth · Axolotl · LoRA · QLoRA · SFT · DPO · ORPO · GRPO · RLHF
 
-**RAG & Retrieval**  
-LangChain · Qdrant · pgvector · Chroma · FAISS · BGE · E5 · Sentence-Transformers
-
 **Inference & Serving**  
 vLLM · SGLang · TGI · llama.cpp · Ollama · FastAPI · ONNX · GPTQ · AWQ · GGUF · FP8
 
@@ -26,7 +23,7 @@ vLLM · SGLang · TGI · llama.cpp · Ollama · FastAPI · ONNX · GPTQ · AWQ �
 MLflow · Weights & Biases · BentoML · GitHub Actions · lm-eval-harness · Ragas · DeepEval · Evidently
 
 **Computer Vision**  
-ViT · DINOv2 · CLIP · SigLIP · SAM 2 · YOLO · LLaVA · Qwen-VL · timm · Ultralytics · OpenCV
+ViT · DINOv2 · CLIP · SigLIP · SAM 2 · YOLO · LLaVA · Qwen-VL · timm 
 
 **Cloud & Infrastructure**  
 AWS · Docker · Kubernetes · Git · Airflow · Prefect · PySpark · dbt · MinIO
