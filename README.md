@@ -1,6 +1,6 @@
 # Vinit Raju Dekkapati
 
-**ML Engineer** — Production-level MLOps/LLMOps, fine-tuning, inference/serving, and AI systems engineering for LLM and agentic AI systems.
+**ML Engineer** — Production-level MLOps, fine-tuning, inference/serving, and AI systems engineering for LLM and agentic AI systems.
 
 M.S. Data Science · University of Delaware (May 2026) · 3+ years building data and ML pipelines.
 
@@ -11,16 +11,16 @@ M.S. Data Science · University of Delaware (May 2026) · 3+ years building data
 ## 🧰 Tech Stack
 
 **Languages**  
-Python · SQL · Bash · Linux
+Python · Rust · SQL · Bash · Linux
 
 **LLMs & Fine-Tuning**  
-Axolotl · Unsloth · TRL · PyTorch · Hugging Face Transformers · PEFT · LoRA · QLoRA · SFT · DPO · ORPO · GRPO · DeepSpeed · FSDP
+Axolotl · Unsloth · PyTorch · Hugging Face Transformers · PEFT · DeepSpeed · FSDP
 
 **Inference & Serving**  
-vLLM · SGLang · Triton Inference Server · TGI · BentoML · FastAPI · llama.cpp · AWQ · GPTQ · GGUF · FP8
+vLLM · SGLang · Triton Inference Server · BentoML · FastAPI
 
 **MLOps & Experiment Tracking**  
-Weights & Biases · MLflow · Metaflow · Prefect · GitHub Actions · lm-eval-harness · Ragas · DeepEval · Evidently
+Weights & Biases · MLflow · Metaflow · Prefect · GitHub Actions
 
 **Cloud & Infrastructure**  
 AWS · Docker · RunPod · Modal · Pulumi · Git
@@ -30,7 +30,7 @@ AWS · Docker · RunPod · Modal · Pulumi · Git
 ## 🔭 Currently Exploring
 
 💻 **Local AI Inference**  
-AI should be available and helpful for everyone. The gap between "requires a data center" and "runs on your laptop" is closing faster than most people realize. I'm excited that the most impactful AI deployments of the next decade won't need the cloud.
+AI should be available and helpful for everyone. I'm excited that the most impactful AI deployments of the next decade won't need the cloud.
 
 🌍 **World Models**  
 The next leap isn't better chatbots — it's AI that builds causal models of its environment, predicting its consequences and acts on them. Exploring more about the next chapter in AI.
