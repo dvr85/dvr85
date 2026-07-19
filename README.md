@@ -10,7 +10,7 @@ M.S. Data Science · University of Delaware (May 2026) · 3+ years building data
 
 ## 🔭 Currently Exploring
 
-📊 **Essential AI Solutions**
+📊 **Essential AI Solutions**  
 The powerful AI systems should be push the boundaries of scientific discovery and guide humanity to understand and solve complex problems in nature. 
 
 💻 **Local AI Inference**  
