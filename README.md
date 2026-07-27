@@ -11,7 +11,7 @@ M.S. Data Science · University of Delaware (May 2026) · 3+ years building data
 ## 🔭 Currently Exploring
 
 📊 **Essential AI Solutions**  
-The powerful AI systems should be push the boundaries of scientific discovery and guide humanity to understand and solve complex problems in nature. 
+The powerful AI systems should push the boundaries of scientific discovery and guide humanity to understand and solve complex problems in nature. 
 
 💻 **Local AI Inference**  
 AI should be available and helpful for everyone. I'm excited that the most impactful AI deployments of the next decade won't need the cloud.
