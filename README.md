@@ -1,6 +1,6 @@
 # Vinit Raju Dekkapati
 
-**ML Engineer** — Production-level Model Deployment, fine-tuning and inference for agentic AI systems.
+**Applied Data Scientist** — From Research/Business Questions to Production-level Model Deployment with End-to-End Data Science Solutions.
 
 M.S. Data Science · University of Delaware (May 2026) · 3+ years building data and ML pipelines.
 
