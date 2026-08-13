@@ -4,7 +4,7 @@
 
 M.S. Data Science · University of Delaware (May 2026) · 3+ years building data and ML pipelines.
 
-📍 Newark, DE · ✉️ [vinitraju0420@gmail.com](mailto:vinitraju0420@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/dvr85)
+📍 Newark, DE
 
 ---
 
