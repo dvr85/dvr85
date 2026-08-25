@@ -1,8 +1,10 @@
 # Vinit Raju Dekkapati
 
-**Applied Data Scientist** — From Research/Business Questions to Production-level Model Deployment with End-to-End Data Science Solutions.
+**Software Engineer · AI/ML Systems · Applied AI**
 
-M.S. Data Science · University of Delaware (May 2026) · 3+ years building data and ML pipelines.
+Building AI/ML systems that turn models into usable, reliable software.
+
+M.S. Data Science · University of Delaware (May 2026) · 3+ years building software, data, and ML systems.
 
 📍 Newark, DE
 
@@ -10,14 +12,25 @@ M.S. Data Science · University of Delaware (May 2026) · 3+ years building data
 
 ## 🔭 Currently Exploring
 
-📊 **Essential AI Solutions**  
-The powerful AI systems should push the boundaries of scientific discovery and guide humanity to understand and solve complex problems in nature. 
+### ⚙️ AI/ML Systems & Engineering
 
-💻 **Local AI Inference**  
-AI should be available and helpful for everyone. I'm excited that the most impactful AI deployments of the next decade won't need the cloud.
+Building the engineering layer around ML/DL and modern AI models — from data processing and model development to fine-tuning, evaluation, inference, serving, and deployment.
 
-🌍 **World Models**  
-The next leap isn't better chatbots — it's AI that builds causal models of its environment, predicting its consequences and acts on them. Exploring more about the next chapter in AI.
+### 🧠 Foundation & Multimodal Models
+
+Exploring foundation models, vision-language models, fine-tuning, parameter-efficient adaptation, model evaluation, and practical applications of multimodal AI.
+
+### 🚀 Inference & Local AI
+
+Experimenting with efficient model inference, serving, optimization, and deployment on local hardware — alongside high-performance inference runtimes and model-serving systems.
+
+### 🦀 Systems & Performance Engineering
+
+Using Rust alongside Python to build performance-sensitive components, optimize data and inference workloads, and explore the boundary between high-level ML development and systems engineering.
+
+### 🌍 AI for Science
+
+Excited about how AI and foundation models can contribute to scientific discovery, environmental understanding, climate and ocean science, and other real-world problems.
 
 ---
 
