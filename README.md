@@ -4,7 +4,7 @@
 
 Building AI/ML systems that turn models into usable, reliable software.
 
-M.S. Data Science · University of Delaware (May 2026) · 3+ years building software, data, and ML systems.
+M.S. Data Science · University of Delaware (May 2026) · 4 years building software, data, and ML systems.
 
 📍 Newark, DE
 
